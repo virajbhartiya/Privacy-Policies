@@ -1,4 +1,4 @@
-Privacy Policy 
+## Privacy Policy 
 Anonymus At Heart built the Crushd app as free app. This SERVICE is provided by Anonymus At Heart [at no cost] and is intended for use as is.
 
 This page is used to inform visitors regarding [my/our] policies with the collection, use, and disclosure of Personal Information if anyone decided to use [my/our] Service.
